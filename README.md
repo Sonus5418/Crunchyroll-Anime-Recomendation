@@ -27,7 +27,10 @@ User Testing and Feedback: Iterate on the dashboard design and recommendation st
 
 Deployment and Monitoring: Deploy the Power BI dashboard and recommendation strategies in a production environment, and monitor performance metrics to ensure ongoing optimization and effectiveness.
 ## :camera_flash: SANPSHOTS:
-[]!(https://github.com/Sonus5418/Crunchyroll-Anime-Recomendation/blob/main/crunchyroll%20anime%20dashboard%20images/crunchyroll%201.jpg)
+![SALES VIEW](https://github.com/Sonus5418/Crunchyroll-Anime-Recomendation/blob/main/crunchyroll%20anime%20dashboard%20images/crunchyroll%201.jpg)
+![EMPLOYEE VIEW](https://github.com/Sonus5418/classic-cars-sales-dashboard/blob/main/classic%20cars%20dashboards/classic%20car%202.jpg)
+![KEY INSIGHTS](https://github.com/Sonus5418/classic-cars-sales-dashboard/blob/main/classic%20cars%20dashboards/classic%20car%203.jpg)
+
 
 ## Project Impact and Benefits 🌟
 ***Enhanced User Experience**: Provide Crunchyroll users with curated anime recommendations and insights into popular titles, leading to higher user satisfaction and engagement.
