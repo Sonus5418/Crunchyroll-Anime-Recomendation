@@ -27,10 +27,11 @@ User Testing and Feedback: Iterate on the dashboard design and recommendation st
 
 Deployment and Monitoring: Deploy the Power BI dashboard and recommendation strategies in a production environment, and monitor performance metrics to ensure ongoing optimization and effectiveness.
 ## :camera_flash: SANPSHOTS:
-![SALES VIEW](https://github.com/Sonus5418/Crunchyroll-Anime-Recomendation/blob/main/crunchyroll%20anime%20dashboard%20images/crunchyroll%201.jpg)
-![EMPLOYEE VIEW](https://github.com/Sonus5418/Crunchyroll-Anime-Recomendation/blob/main/crunchyroll%20anime%20dashboard%20images/crunchyroll%202.jpg)
-![KEY INSIGHTS](https://github.com/Sonus5418/Crunchyroll-Anime-Recomendation/blob/main/crunchyroll%20anime%20dashboard%20images/crunchyroll%203.jpg)
-
+![MENU](https://github.com/Sonus5418/Crunchyroll-Anime-Recomendation/blob/main/crunchyroll%20anime%20dashboard%20images/crunchyroll%201.jpg)
+![TERMS](https://github.com/Sonus5418/Crunchyroll-Anime-Recomendation/blob/main/crunchyroll%20anime%20dashboard%20images/crunchyroll%202.jpg)
+![OVERVIEW](https://github.com/Sonus5418/Crunchyroll-Anime-Recomendation/blob/main/crunchyroll%20anime%20dashboard%20images/crunchyroll%203.jpg)
+![TOP ANIME](https://github.com/Sonus5418/Crunchyroll-Anime-Recomendation/blob/main/crunchyroll%20anime%20dashboard%20images/crunchyroll%204.jpg)
+![TOOLTIP](https://github.com/Sonus5418/Crunchyroll-Anime-Recomendation/blob/main/crunchyroll%20anime%20dashboard%20images/crunchyroll%205.jpg)
 
 ## Project Impact and Benefits 🌟
 ***Enhanced User Experience**: Provide Crunchyroll users with curated anime recommendations and insights into popular titles, leading to higher user satisfaction and engagement.
